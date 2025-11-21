@@ -10,6 +10,8 @@ The focus is not on model building, but on data exploration, behavioral analysis
 
 The dataset used comes from a public Telco Customer Churn dataset, containing demographic attributes, service usage, subscription patterns, and churn behavior.
 
+Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
+
 Main fields include:
 customerID, gender, SeniorCitizen, Contract, InternetService, MonthlyCharges, TotalCharges, and Churn.
 
